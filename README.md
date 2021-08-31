@@ -1,2 +1,2 @@
 # End-to-end-machine-learning-project
-Completer machine learning workflow for structured data
+Complete machine learning workflow for structured data on classification and regression problem
